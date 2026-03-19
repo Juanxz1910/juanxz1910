@@ -62,7 +62,7 @@ Sou um estudante dedicado do 3º ano do Ensino Médio, com conhecimento em desen
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 0px;" 
     src="https://github-readme-stats.vercel.app/api?username=Juanxz1910&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
