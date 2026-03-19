@@ -69,7 +69,7 @@ Sou um estudante dedicado do 3º ano do Ensino Médio, com conhecimento em desen
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanxz1910&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
