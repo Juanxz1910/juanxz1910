@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento de Sistema`**
 <br/>
-Ola, sou um estudante da universidade São Judas em busca da minha primeira vaga de emprego na área, com conhecimento em desenvolvimento de sistemas. Tenho interesse em aprender novas tecnologias e em evoluir minhas habilidades, tanto técnicas quanto interpessoais. Valorizo o trabalho em equipe e a troca de conhecimento, sempre com o objetivo de crescer pessoal e profissionalmente na área de tecnologia.
+Ola, sou um estudante da universidade São Judas em busca da minha primeira vaga de emprego na área, com conhecimento em desenvolvimento de sistemas. Tenho interesse em aprender novas tecnologias e em evoluir minhas habilidades, tanto técnicas quanto interpessoais. Valorizo o trabalho em equipe e a troca de conhecimento, sempre com o objetivo de crescer como pessoa e profissionalmente na área de tecnologia.
 
 
 ---
