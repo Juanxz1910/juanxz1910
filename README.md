@@ -56,11 +56,10 @@ Ola, sou um estudante da universidade São Judas em busca da minha primeira vaga
 ### 📊 Estatísticas
 
 <p>
-  <img 
+  <img
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 0px;" 
     src="https://github-readme-stats.vercel.app/api?username=Juanxz1910&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
